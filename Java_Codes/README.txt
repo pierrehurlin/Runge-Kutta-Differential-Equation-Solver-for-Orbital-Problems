@@ -1,10 +1,3 @@
-Author: Pierre Hurlin 
-DKE, Maastricht University
-05/08/2021
-
-PURPOSE: This code implements a 3rd-order Runge-Kutta differential equation solver 
-and applies it your solver to the problem of a satellite orbiting a large central body
-
 CONTENTS: The Java code is based on 3 files: 
 Compo (to plot the position of Titan using 3rd order Runge-Kutta method and the theoritical position),
 Resit (main code, contains RungeKutta, the theoritical solution and the different types of error) 
